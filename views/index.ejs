@@ -1,55 +1,4 @@
 <!DOCTYPE html>
-<<<<<<< Updated upstream
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Formulaire PDF</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.js"></script>
-</head>
-
-<body>
-  <h1>Formulaire PDF</h1>
-  <form action="/generer-pdf" method="post" id="formulaire">
-    <label for="nom">Nom:</label>
-    <input type="text" id="nom" name="nom" required><br>
-
-    <label for="prenom">Prénom:</label>
-    <input type="text" id="prenom" name="prenom" required><br>
-
-    <label for="telephone">Téléphone:</label>
-    <input type="tel" id="telephone" name="telephone" required><br>
-
-    <button type="button" onclick="genererPDF()">Télécharger en PDF</button>
-  </form>
-
-  <script>
-    function genererPDF() {
-      // Sélectionnez les valeurs des champs
-      const nom = document.getElementById('nom').value;
-      const prenom = document.getElementById('prenom').value;
-      const telephone = document.getElementById('telephone').value;
-
-      // Générez le contenu HTML
-      const formulaireHtml = `
-        <h2>Formulaire</h2>
-        <p><strong>Nom:</strong> ${nom}</p>
-        <p><strong>Prénom:</strong> ${prenom}</p>
-        <p><strong>Téléphone:</strong> ${telephone}</p>
-      `;
-
-      html2pdf(formulaireHtml, {
-        margin: 10,
-        filename: 'formulaire.pdf',
-        image: { type: 'jpeg', quality: 0.98 },
-        html2canvas: { scale: 2 },
-        jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
-      });
-    }
-  </script>
-</body>
-</html>
-=======
 <html>
   <head>
 
@@ -71,4 +20,3 @@
 
   <%- include('fragments/footer'); %>
 </html>
->>>>>>> Stashed changes
