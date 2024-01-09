@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="562d2762-a58e-4178-a665-238f7adff89b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/E-timbre-PRODUCTION.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/idea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/meeting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/profile-photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/fragments/footer.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/fragments/header.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/fragments/navbar.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ajbmfnJvXx94vjLicLEplIhkjU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ProjetNodeJs\E-timbre-PRODUCTION\public" />
+      <recent name="C:\ProjetNodeJs\E-timbre-PRODUCTION\views" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="562d2762-a58e-4178-a665-238f7adff89b" name="Default Changelist" comment="" />
+      <created>1704835097004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704835097004</updated>
+      <workItem from="1704835107013" duration="6029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2456" y="257" width="607" height="536" key="find.popup" timestamp="1704841009589">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2456" y="257" width="607" height="536" key="find.popup/0.0.1280.720/1920.0.1680.1050@1920.0.1680.1050" timestamp="1704841009589" />
+  </component>
+</project>
